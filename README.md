@@ -5,7 +5,7 @@
 Me chamo Luiz Henrique Saia da Silva, tenho 22 anos e sou natural de Santa BarbaraD'Oeste interior de São Paulo. Concluí o ensino médio pelo CCE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Etec e o superior em Desenvolvimento de Jogos Digitais pela Fatec. Sou facinado por tecnologia, arte visual e sonora.
 
 <p align="left">
- </a> 
+  </a> 
     <a href="https://github.com/Luizsaia?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -88,14 +88,14 @@ Me chamo Luiz Henrique Saia da Silva, tenho 22 anos e sou natural de Santa Barba
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Luizsaia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizsaia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
