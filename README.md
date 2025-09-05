@@ -5,8 +5,6 @@
 Me chamo Luiz Henrique Saia da Silva, tenho 22 anos e sou natural de Santa BarbaraD'Oeste interior de São Paulo. Concluí o ensino médio pelo CCE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Etec e o superior em Desenvolvimento de Jogos Digitais pela Fatec. Sou facinado por tecnologia, arte visual e sonora.
 
 <p align="left">
-
-    </a> 
     <a href="https://github.com/Luizsaia?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
